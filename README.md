@@ -8,38 +8,35 @@
 
 [Link to Source Code](https://github.com/EmeryCcc111/programmingportfolio2026/tree/main/src/CALCULATORPLAN)
 ## Overview
-OOP Calculator using Processing for graphics and Java for computer Programming. Uses Button Class.
+OOP Calculator using Processing for graphics and Java for computer Programming. Uses Button Class. User can do simple to complex operations using addition, subtraction, multiplication and division.
 
 ## Current Status
 Working:
-- [A feature you have tested]
-- [Another feature you have tested]
+- [Able to do complex equations]
+- [Can do addition, division, and subtraction]
 
 Still in progress:
-- [A requirement you are finishing]
+- [Getting the keyboard to work with the calculator.]
 
 ## How to Run
 Built with Processing.
-Processing version: [Your version]
+Processing version: [4.0.1]
 
-[After the project files are uploaded, identify the
-project folder and main .pde file to open and run.]
+
 
 ## Controls
 Mouse:
-[Explain how to use the buttons.]
+[Click on buttons in order for numbers to appear on the screen.]
 
 Keyboard:
-[List keys that currently work and what they do.
-Identify planned controls as not yet implemented.]
+[not yet implemented]
 
 ## Project Files
-[Identify the main sketch and other tabs or assets
-you will upload.]
+Button.pde
+CALCULATORPLAN.pde
 
 ## Testing
-[Record one test: actions, expected result,
-and actual result.]
+[I did 523 times 523 and then checked its accuracy with another real calculator. Completed one round of alpha testing.]
 
 ## Next Step
-[Name the specific behavior you will build or fix next.]
+[I will get the keyboard to work with the calculator accurately.]
