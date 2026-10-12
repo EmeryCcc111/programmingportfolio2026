@@ -8,7 +8,7 @@
 
 [Link to Source Code](https://github.com/EmeryCcc111/programmingportfolio2026/tree/main/src/CALCULATORPLAN)
 ## Overview
-OOP Calculator using Processing for graphics and Java for computer Programming.
+OOP Calculator using Processing for graphics and Java for computer Programming. Uses Button Class.
 
 ## Current Status
 Working:
